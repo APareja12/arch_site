@@ -344,6 +344,12 @@
     margin-bottom: 2rem;
   }
 
+  .service-text {
+    font-family: "Josefin Slab", serif;
+    font-size: 1.6rem;
+    text-align: justify;
+  }
+
   .about-us-img-wrapper {
     grid-column: 7 / 11;
     grid-row: 2 / 6;
